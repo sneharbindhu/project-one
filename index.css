@@ -1,0 +1,46 @@
+.inner-box{
+    background-color: white;
+    color: black;
+}
+.sec2{
+    background-color:skyblue;
+    color:black;
+}
+.inbox1{
+    padding-top: 80px;
+    text-align: right;
+}
+.buttons{
+    background-color: white;
+    padding: 15px;
+
+}
+.inbox2{
+    padding: 60px;
+    
+}
+.para{
+    text-align: center;
+
+}
+.buttons{
+background-color:skyblue;
+color: black;
+}
+#sec4{
+    background-color: aqua;
+}
+#sec3{
+    padding: 50px 0px;
+}
+.circle{
+    border: 2px solid  white ;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 25px 0;
+}
+
+
+
